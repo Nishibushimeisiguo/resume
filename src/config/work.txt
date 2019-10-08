@@ -2,10 +2,9 @@
 基本资料
 =========
 
-* 姓名：XXXX 。
-* Email： XXXXXXXXXX@qq.com 。
-* GitHub：https://github.com/JesseZhao1990 。
-
+*姓名：胡智喻.
+*电子邮件：16679088514@163.com。
+* GitHub：。
 个人概况
 -------
 
